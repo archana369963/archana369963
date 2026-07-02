@@ -1,7 +1,7 @@
 Hi, I'm Archana 👋
 
 🎓 MSc Data Science Student
-💻 Python | SQL | Machine Learning
+💻 Python | SQL | Machine Learning | Artificial Intelligence
 📈 Building Data Science & Analytics Projects
 
 Currently Working On
