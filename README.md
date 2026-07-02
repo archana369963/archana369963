@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Archana 👋
 
-<!--
-**archana369963/archana369963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Student
+💻 Python | SQL | Machine Learning
+📈 Building Data Science & Analytics Projects
 
-Here are some ideas to get you started:
+Currently Working On
+• Time Series Forecasting
+• SQL
+• Data Structures & Algorithms
+• Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech
+Python • SQL • Pandas • NumPy • Matplotlib • Scikit-learn • Git
+
+Goals for 2026
+✓ Build 10 high-quality projects
+✓ Master SQL
+✓ Solve 300+ LeetCode problems
+✓ Land a Data Science Role
+
