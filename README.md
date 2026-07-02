@@ -16,6 +16,6 @@ Python • SQL • Pandas • NumPy • Matplotlib • Scikit-learn • Git
 Goals for 2026
 ✓ Build 10 high-quality projects
 ✓ Master SQL
-✓ Solve 300+ LeetCode problems
+✓ Solve 600+ LeetCode problems
 ✓ Land a Data Science Role
 
